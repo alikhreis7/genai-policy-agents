@@ -1,6 +1,7 @@
 # Enterprise Policy & Decision Intelligence Engine
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![CI](https://github.com/alikhreis7/genai-policy-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/alikhreis7/genai-policy-agents/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/tests-29%20passed-brightgreen.svg)](tests/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -63,8 +64,8 @@ User Query
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/policy-intelligence-engine.git
-cd policy-intelligence-engine
+git clone https://github.com/alikhreis7/genai-policy-agents.git
+cd genai-policy-agents
 
 # Create virtual environment
 python -m venv venv
@@ -210,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Ali Khreis** - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Ali Khreis** - [GitHub](https://github.com/alikhreis7) | [LinkedIn](https://linkedin.com/in/alikhreis)
 
 ---
 
